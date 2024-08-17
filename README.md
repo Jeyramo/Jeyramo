@@ -22,6 +22,6 @@ Welcome to my GitHub profile! I'm a developer on a journey to master full-stack 
 
 
 ## 📊 GitHub Stats
-![Jeymaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Jeymaro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeyramo&show_icons=true&theme=radical)
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out if you want to collaborate or chat about tech. Let’s build something amazing together! 🚀
