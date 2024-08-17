@@ -1,6 +1,3 @@
-Here’s an updated `README.md` file template for your GitHub profile:
-
-```markdown
 # Hi there, I'm Jeymaro! 👋
 
 Welcome to my GitHub profile! I'm a developer on a journey to master full-stack development, with the goal of creating powerful mobile and web applications. Whether I'm diving into backend logic or crafting sleek front-end designs, I'm passionate about building end-to-end solutions.
